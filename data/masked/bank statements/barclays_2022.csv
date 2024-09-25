@@ -1,0 +1,222 @@
+Number,Date,Account,Amount,Subcategory,Memo
+0,30/12/2022,00-00-00 00000001,67.00,Counter Credit,SCOTTISHPOWER         	xxxxxx BGC	
+	0,28/12/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,28/12/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,22/12/2022,00-00-00 00000001,-2500.00,Funds Transfer,Son          	CHRISTMASALLOWANCE FT
+	0,22/12/2022,00-00-00 00000001,5547.55,Counter Credit,Employer    	xxxxxx/09 BGC	
+	909889,21/12/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	753118,15/12/2022,00-00-00 00000001,-45.36,Direct Debit,AZP HE COVER          	xxxxxx DDR	
+	996028,15/12/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	942710,13/12/2022,00-00-00 00000001,-55.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	992884,12/12/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	0,09/12/2022,00-00-00 00000001,5.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	909632,09/12/2022,00-00-00 00000001,-859.09,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	285344,09/12/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,02/12/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	694158,01/12/2022,00-00-00 00000001,-16.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,29/11/2022,00-00-00 00000001,66.00,Counter Credit,SCOTTISHPOWER         	xxxxxx BGC	
+	0,25/11/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,25/11/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/11/2022,00-00-00 00000001,5547.55,Counter Credit,Employer    	xxxxxx/08 BGC	
+	909889,21/11/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	0,17/11/2022,00-00-00 00000001,-1711.04,Funds Transfer,Son          	BIRTHDAY ALLOWANCE FT
+	996028,15/11/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	942710,14/11/2022,00-00-00 00000001,-55.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	992884,10/11/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	285344,09/11/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	909632,08/11/2022,00-00-00 00000001,-170.12,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	0,04/11/2022,00-00-00 00000001,10.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	0,04/11/2022,00-00-00 00000001,-66.00,Funds Transfer,Friend    	PARTY DEPOSIT FT	
+	0,02/11/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	0,01/11/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	694158,01/11/2022,00-00-00 00000001,-16.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,31/10/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,31/10/2022,00-00-00 00000001,66.00,Counter Credit,SCOTTISHPOWER         	xxxxxx BGC	
+	941630,27/10/2022,00-00-00 00000001,-41.49,Direct Debit,HOMESERVE             	HSS xxxxxx DDR	
+	0,25/10/2022,00-00-00 00000001,-27.00,Funds Transfer,Friend    	FIREWORKS FT	
+	0,25/10/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/10/2022,00-00-00 00000001,5452.80,Counter Credit,Employer    	xxxxxx/07 BGC	
+	0,24/10/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	909889,21/10/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	996028,17/10/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	942710,13/10/2022,00-00-00 00000001,-55.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	0,10/10/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	909632,10/10/2022,00-00-00 00000001,-1490.73,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	285344,10/10/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	992884,10/10/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	0,07/10/2022,00-00-00 00000001,-400.00,Bill Payment,TESCO BANK            	xxxxxx BBP	
+	0,05/10/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	694158,03/10/2022,00-00-00 00000001,-16.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,03/10/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,26/09/2022,00-00-00 00000001,-900.00,Funds Transfer,Son          	POCKET ALLOWANCE FT	
+	0,26/09/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,26/09/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,23/09/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,23/09/2022,00-00-00 00000001,5452.80,Counter Credit,Employer    	xxxxxx/06 BGC	
+	909889,21/09/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	0,20/09/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	996028,15/09/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	942710,13/09/2022,00-00-00 00000001,-55.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	0,12/09/2022,00-00-00 00000001,5.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	0,12/09/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	992884,12/09/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	285344,09/09/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	909632,08/09/2022,00-00-00 00000001,-612.89,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	0,05/09/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,02/09/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	694158,01/09/2022,00-00-00 00000001,-16.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,30/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,26/08/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,26/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,25/08/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/08/2022,00-00-00 00000001,5589.99,Counter Credit,Employer    	xxxxxx/05 BGC	
+	0,22/08/2022,00-00-00 00000001,5.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	909889,22/08/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	0,16/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	942710,15/08/2022,00-00-00 00000001,-55.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	996028,15/08/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	0,11/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	992884,10/08/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	0,09/08/2022,00-00-00 00000001,13.00,Counter Credit,247 HOME ASSIST LT    	xxxxxx BGC	
+	285344,09/08/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,08/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	909632,08/08/2022,00-00-00 00000001,-910.74,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	0,04/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,02/08/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	0,01/08/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	694158,01/08/2022,00-00-00 00000001,-29.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,28/07/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	941630,27/07/2022,00-00-00 00000001,-1.50,Direct Debit,HOMESERVE             	HSS xxxxxx DDR	
+	0,25/07/2022,00-00-00 00000001,-1000.00,Funds Transfer,Son          	POCKET ALLOWANCE FT	
+	0,25/07/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	0,25/07/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,25/07/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/07/2022,00-00-00 00000001,5590.00,Counter Credit,Employer    	xxxxxx/04 BGC	
+	0,22/07/2022,00-00-00 00000001,-124.22,Funds Transfer,RED ROCK ESTATE       	xxxxxx FT	
+	0,22/07/2022,00-00-00 00000001,-20.00,Funds Transfer,Tutor       	Son FT	
+	909889,21/07/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	0,20/07/2022,00-00-00 00000001,9.13,Counter Credit,EE LIMITED            	Q91712960340102128 BG
+	996028,15/07/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	941284,15/07/2022,00-00-00 00000001,-9.13,Direct Debit,EE LIMITED            	Q91712960338327056 DD
+	942710,13/07/2022,00-00-00 00000001,-55.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	909632,11/07/2022,00-00-00 00000001,-664.34,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	992884,11/07/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	285344,08/07/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,05/07/2022,00-00-00 00000001,-42.13,Funds Transfer,Friend    	NORTH WALES TRIP FT	
+	0,04/07/2022,00-00-00 00000001,10.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	0,04/07/2022,00-00-00 00000001,-63.16,Funds Transfer,Friend    	NORTHWALES HOLIDAY FT
+	0,04/07/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	286366,01/07/2022,00-00-00 00000001,-14.17,Direct Debit,BG SERVICES           	xxxxxx DDR	
+	694158,01/07/2022,00-00-00 00000001,-29.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	889001,30/06/2022,00-00-00 00000001,-805.09,Direct Debit,NEWDAY LTD            	xxxxxx DDR	
+	0,27/06/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,24/06/2022,00-00-00 00000001,-75.00,Card Purchase,THE ENGINEERING DE    	ON 23 JUN BCC	
+	0,24/06/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,24/06/2022,00-00-00 00000001,5560.18,Counter Credit,Employer    	xxxxxx/03 BGC	
+	0,21/06/2022,00-00-00 00000001,-511.00,Funds Transfer,Friend    	NORTHWALES HOLIDAY FT
+	909889,21/06/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	0,20/06/2022,00-00-00 00000001,29.97,Contactless Card Refund,COSTCO WHOLESALE #    	ON 18 JUN CLR	
+	996028,15/06/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	941284,15/06/2022,00-00-00 00000001,-9.13,Direct Debit,EE LIMITED            	Q91712960330230079 DD
+	942710,13/06/2022,00-00-00 00000001,-34.69,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	992884,10/06/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	285344,09/06/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,08/06/2022,00-00-00 00000001,-14.20,Direct Debit,BG SERVICES           xxxxxx	FIRST DDR
+	909632,08/06/2022,00-00-00 00000001,-396.81,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	0,06/06/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	694158,01/06/2022,00-00-00 00000001,-23.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,31/05/2022,00-00-00 00000001,-900.00,Funds Transfer,Son          	POCKET ALLOWANCE FT	
+	0,31/05/2022,00-00-00 00000001,5.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	889001,30/05/2022,00-00-00 00000001,-258.90,Direct Debit,NEWDAY LTD            	xxxxxx DDR	
+	0,30/05/2022,00-00-00 00000001,8.38,Contactless Card Refund,COSTCO WHOLESALE #    	ON 27 MAY CLR	
+	0,30/05/2022,00-00-00 00000001,-95.06,Contactless Card Purchase,COSTCO WHOLESALE #    	ON 27 MAY CLP	
+	0,26/05/2022,00-00-00 00000001,290.00,Transfer,CS SECURITIES EU *    	115365*CSFBGB2L * TFR
+	0,25/05/2022,00-00-00 00000001,-100.00,Funds Transfer,Son          	POCKET ALLOWANCE FT	
+	0,25/05/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,25/05/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/05/2022,00-00-00 00000001,5560.18,Counter Credit,Employer    	xxxxxx/02 BGC	
+	909889,23/05/2022,00-00-00 00000001,-259.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	0,20/05/2022,00-00-00 00000001,22.17,Contactless Card Refund,COSTCO WHOLESALE #    	ON 19 MAY CLR	
+	0,20/05/2022,00-00-00 00000001,-73.76,Contactless Card Purchase,COSTCO WHOLESALE #    	ON 19 MAY CLP	
+	0,20/05/2022,00-00-00 00000001,-60.61,Card Purchase,COSTCO PFS - WATFO    	ON 19 MAY BCC	
+	996028,16/05/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	941284,16/05/2022,00-00-00 00000001,-9.13,Direct Debit,EE LIMITED            	Q91712960321685638 DD
+	942710,13/05/2022,00-00-00 00000001,-91.95,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	992884,10/05/2022,00-00-00 00000001,-213.00,Direct Debit,Council          	01 xxxxxx DDR	
+	285344,10/05/2022,00-00-00 00000001,-6.55,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	909632,09/05/2022,00-00-00 00000001,-714.45,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	0,09/05/2022,00-00-00 00000001,-7.78,Contactless Card Purchase,MCDONALDS             	ON 06 MAY CLP	
+	0,09/05/2022,00-00-00 00000001,8.38,Contactless Card Refund,COSTCO WHOLESALE #    	ON 06 MAY CLR	
+	0,09/05/2022,00-00-00 00000001,-105.97,Card Purchase,COSTCO WHOLESALE #    	ON 06 MAY BCC	
+	0,09/05/2022,00-00-00 00000001,-85.38,Card Purchase,COSTCO PFS - WATFO    	ON 06 MAY BCC	
+	0,04/05/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	0,03/05/2022,00-00-00 00000001,12.15,Unpaid,BG SERVICES           	xxxxxx UNP	
+	286366,03/05/2022,00-00-00 00000001,-12.15,Direct Debit,BG SERVICES           	xxxxxx DDR	
+	694158,03/05/2022,00-00-00 00000001,-23.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	889001,29/04/2022,00-00-00 00000001,-530.26,Direct Debit,NEWDAY LTD            	xxxxxx DDR	
+	941630,27/04/2022,00-00-00 00000001,-1.50,Direct Debit,HOMESERVE             	HSS xxxxxx DDR	
+	0,26/04/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,25/04/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/04/2022,00-00-00 00000001,5572.74,Counter Credit,Employer    	xxxxxx/01 BGC	
+	909889,21/04/2022,00-00-00 00000001,-230.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	941284,19/04/2022,00-00-00 00000001,-9.13,Direct Debit,EE LIMITED            	Q91712960313544743 DD
+	996028,19/04/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	0,19/04/2022,00-00-00 00000001,5.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	942710,13/04/2022,00-00-00 00000001,-71.50,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	992884,11/04/2022,00-00-00 00000001,-217.36,Direct Debit,Council          	01 xxxxxx DDR	
+	0,08/04/2022,00-00-00 00000001,-300.00,Funds Transfer,RED ROCK ESTATE       	xxxxxx FT	
+	909632,08/04/2022,00-00-00 00000001,-779.42,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	285344,08/04/2022,00-00-00 00000001,-6.00,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,04/04/2022,00-00-00 00000001,-5.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	0,01/04/2022,00-00-00 00000001,-1917.00,Funds Transfer,RED ROCK ESTATE       	xxxxxx FT	
+	694158,01/04/2022,00-00-00 00000001,-23.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	286366,01/04/2022,00-00-00 00000001,-12.15,Direct Debit,BG SERVICES           	xxxxxx DDR	
+	889001,31/03/2022,00-00-00 00000001,-667.75,Direct Debit,NEWDAY LTD            	xxxxxx DDR	
+	0,25/03/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,25/03/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/03/2022,00-00-00 00000001,5401.74,Counter Credit,Employer    	xxxxxx/12 BGC	
+	909889,21/03/2022,00-00-00 00000001,-127.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	996028,15/03/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	941284,15/03/2022,00-00-00 00000001,-8.37,Direct Debit,EE LIMITED            	Q91712960305423755 DD
+	942710,14/03/2022,00-00-00 00000001,-67.00,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	909632,11/03/2022,00-00-00 00000001,-918.96,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	285344,11/03/2022,00-00-00 00000001,-6.00,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,07/03/2022,00-00-00 00000001,-133.69,Card Purchase,COSTCO WHOLESALE #    	ON 06 MAR BCC	
+	0,07/03/2022,00-00-00 00000001,-23.00,Funds Transfer,SHALU CHOPRA          	Spouse FT	
+	0,07/03/2022,00-00-00 00000001,7.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	0,03/03/2022,00-00-00 00000001,-4.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	889001,03/03/2022,00-00-00 00000001,-145.27,Direct Debit,NEWDAY LTD            	xxxxxx DDR	
+	286366,01/03/2022,00-00-00 00000001,-12.15,Direct Debit,BG SERVICES           	xxxxxx DDR	
+	694158,01/03/2022,00-00-00 00000001,-23.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	0,28/02/2022,00-00-00 00000001,-1350.00,Funds Transfer,Spouse          	Rent FT	
+	0,28/02/2022,00-00-00 00000001,1350.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/02/2022,00-00-00 00000001,5401.74,Counter Credit,Employer    	xxxxxx/11 BGC	
+	909889,21/02/2022,00-00-00 00000001,-127.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	996028,15/02/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	941284,15/02/2022,00-00-00 00000001,-8.37,Direct Debit,EE LIMITED            	Q91712960296826617 DD
+	942710,14/02/2022,00-00-00 00000001,-67.00,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	285344,09/02/2022,00-00-00 00000001,-6.00,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	909632,08/02/2022,00-00-00 00000001,-772.20,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	0,02/02/2022,00-00-00 00000001,7.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	0,02/02/2022,00-00-00 00000001,-4.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	694158,01/02/2022,00-00-00 00000001,-23.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	286366,01/02/2022,00-00-00 00000001,-12.15,Direct Debit,BG SERVICES           	xxxxxx DDR	
+	0,31/01/2022,00-00-00 00000001,-1013.17,Bill Payment,HMRC SELF ASSESSME    	xxxxxx BBP	
+	889001,31/01/2022,00-00-00 00000001,-318.54,Direct Debit,NEWDAY LTD            	xxxxxx DDR	
+	0,28/01/2022,00-00-00 00000001,-1250.00,Funds Transfer,Spouse          	Rent FT	
+	941630,27/01/2022,00-00-00 00000001,-1.50,Direct Debit,HOMESERVE             	HSS xxxxxx DDR	
+	0,25/01/2022,00-00-00 00000001,1250.00,Counter Credit,Tenant           	Rent Payment BGC	
+	0,25/01/2022,00-00-00 00000001,4072.14,Counter Credit,Employer    	xxxxxx/10 BGC	
+	917544,24/01/2022,00-00-00 00000001,-159.00,Direct Debit,TV LICENCE DDA        	xxxxxx DDR	
+	909889,21/01/2022,00-00-00 00000001,-127.00,Direct Debit,SCOTTISHPOWER         	xxxxxx DDR	
+	996028,17/01/2022,00-00-00 00000001,-1981.28,Direct Debit,NATIONWIDE B S        	xxxxxx DDR	
+	941284,17/01/2022,00-00-00 00000001,-8.37,Direct Debit,EE LIMITED            	Q91712960288641958 DD
+	0,14/01/2022,00-00-00 00000001,7.00,Funds Transfer,BLUE REWARDS          	WALLET TRANSFER FT	
+	942710,13/01/2022,00-00-00 00000001,-67.00,Direct Debit,SKY DIGITAL           	xxxxxx DDR	
+	909632,10/01/2022,00-00-00 00000001,-658.32,Direct Debit,TESCO BANK            	xxxxxx DDR	
+	992884,10/01/2022,00-00-00 00000001,-208.00,Direct Debit,Council          	01 xxxxxx DDR	
+	285344,07/01/2022,00-00-00 00000001,-6.00,Direct Debit,PLUSNET PLC PAY AC    	xxxxxx DDR	
+	0,05/01/2022,00-00-00 00000001,-4.00,Debit,Blue Rewards Fee CB   	Blue Rewards Fee CB		
+	286366,04/01/2022,00-00-00 00000001,-12.15,Direct Debit,BG SERVICES           	xxxxxx DDR	
+	694158,04/01/2022,00-00-00 00000001,-23.99,Direct Debit,247 HOME RESCUE       	xxxxxx DDR	
+	
