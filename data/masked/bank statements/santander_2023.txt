@@ -1,0 +1,393 @@
+From: 01/01/2023 to 31/12/2023
+							
+Account: XXXX XXXX XXXX XXXX
+						
+Date: 24/12/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 5400.00 	
+Balance: 5878.19 
+						
+Date: 24/12/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 250.00 	
+Balance: 478.19 
+						
+Date: 22/12/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 228.19 
+						
+Date: 20/12/2023
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -199.25 	
+Balance: 282.19 
+						
+Date: 15/12/2023
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -270.77 	
+Balance: 481.44 
+						
+Date: 14/12/2023
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 752.21 
+						
+Date: 11/12/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 789.20 
+						
+Date: 10/12/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 988.20 
+						
+Date: 10/12/2023
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 987.12 
+						
+Date: 10/12/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.31 	
+Balance: 985.13 
+						
+Date: 10/12/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 983.82 
+						
+Date: 26/11/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 250.00 	
+Balance: 987.82 
+						
+Date: 22/11/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 737.82 
+						
+Date: 21/11/2023
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -196.19 	
+Balance: 791.82 
+						
+Date: 16/11/2023
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM Spouse
+Amount: 650.00 	
+Balance: 988.01 
+						
+Date: 10/11/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 338.01 
+						
+Date: 10/11/2023
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 336.93 
+						
+Date: 10/11/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 0.89 	
+Balance: 334.94 
+						
+Date: 10/11/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 334.05 
+						
+Date: 10/11/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 338.05 
+						
+Date: 28/10/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 250.00 	
+Balance: 537.05 
+						
+Date: 23/10/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 287.05 
+						
+Date: 20/10/2023
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM Spouse
+Amount: 300.00 	
+Balance: 341.05 
+						
+Date: 19/10/2023
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -2605.26 	
+Balance: 41.05 
+						
+Date: 17/10/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 2400.00 	
+Balance: 2646.31 
+						
+Date: 10/10/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 246.31 
+						
+Date: 10/10/2023
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 245.23 
+						
+Date: 10/10/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.09 	
+Balance: 243.24 
+						
+Date: 10/10/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 242.15 
+						
+Date: 10/10/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 246.15 
+						
+Date: 30/09/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE SAVINGS , MANDATE NO 1
+Amount: -7550.00 	
+Balance: 445.15 
+						
+Date: 30/09/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 200.00 	
+Balance: 7995.15 
+						
+Date: 29/09/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 7200.00 	
+Balance: 7795.15 
+						
+Date: 28/09/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 250.00 	
+Balance: 595.15 
+						
+Date: 22/09/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 345.15 
+						
+Date: 11/09/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 399.15 
+						
+Date: 10/09/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 598.15 
+						
+Date: 10/09/2023
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 597.07 
+						
+Date: 10/09/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 2.27 	
+Balance: 595.08 
+						
+Date: 10/09/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 592.81 
+						
+Date: 05/09/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE SAVINGS , MANDATE NO 1
+Amount: -8200.00 	
+Balance: 596.81 
+						
+Date: 04/09/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE SAVINGS , MANDATE NO 1
+Amount: -15000.00 	
+Balance: 8796.81 
+						
+Date: 03/09/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 23000.00 	
+Balance: 23796.81 
+						
+Date: 26/08/2023
+Description: FASTER PAYMENTS RECEIPT REF.Rent FROM Self
+Amount: 600.00 	
+Balance: 796.81 
+						
+Date: 22/08/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 196.81 
+						
+Date: 10/08/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 250.81 
+						
+Date: 10/08/2023
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 249.73 
+						
+Date: 10/08/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 15.53 	
+Balance: 247.74 
+						
+Date: 10/08/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 232.21 
+						
+Date: 10/08/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 236.21 
+						
+Date: 26/07/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE SAVINGS , MANDATE NO 1
+Amount: -9600.00 	
+Balance: 435.21 
+						
+Date: 24/07/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 10035.21 
+						
+Date: 20/07/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE SAVINGS , MANDATE NO 1
+Amount: -9400.00 	
+Balance: 10089.21 
+						
+Date: 19/07/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE SAVINGS , MANDATE NO 1
+Amount: -5000.00 	
+Balance: 19489.21 
+						
+Date: 11/07/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 24489.21 
+						
+Date: 10/07/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 24493.21 
+						
+Date: 09/07/2023
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 5.00 	
+Balance: 24692.21 
+						
+Date: 09/07/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 24687.21 
+						
+Date: 09/07/2023
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 2.00 	
+Balance: 24686.13 
+						
+Date: 09/07/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 30.15 	
+Balance: 24684.13 
+						
+Date: 02/07/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 4600.00 	
+Balance: 24653.98 
+						
+Date: 01/07/2023
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Savings , MANDATE NO 1
+Amount: -5000.00 	
+Balance: 20053.98 
+						
+Date: 24/06/2023
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 8000.00 	
+Balance: 25053.98 
+						
+Date: 24/06/2023
+Description: FASTER PAYMENTS RECEIPT REF.RENT FROM Self
+Amount: 250.00 	
+Balance: 17053.98 
+						
+Date: 22/06/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 16803.98 
+						
+Date: 15/06/2023
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -329.50 	
+Balance: 16857.98 
+						
+Date: 12/06/2023
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -200.00 	
+Balance: 17187.48 
+						
+Date: 10/06/2023
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 2.94 	
+Balance: 17387.48 
+						
+Date: 10/06/2023
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 10.54 	
+Balance: 17384.54 
+						
+Date: 10/06/2023
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 17374.00 
+						
+Date: 01/06/2023
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM 00000004
+Amount: 5450.00 	
+Balance: 17378.00 
+						
+Date: 30/05/2023
+Description: FASTER PAYMENTS RECEIPT REF.RENT FROM Self
+Amount: 1450.00 	
+Balance: 11928.00 
+						
+Date: 30/05/2023
+Description: FASTER PAYMENTS RECEIPT REF.BALANCE TRANSFER FROM 00000004
+Amount: 1950.00 	
+Balance: 10478.00 
+						
+Date: 30/05/2023
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM 00000004
+Amount: 4000.00 	
+Balance: 8528.00 
+						
+Date: 25/05/2023
+Description: FASTER PAYMENTS RECEIPT REF.BALANCE TRF FROM 00000004
+Amount: 1975.00 	
+Balance: 4528.00 
+						
+Date: 24/05/2023
+Description: FASTER PAYMENTS RECEIPT REF.BALANCE TRANSFER FROM 00000004
+Amount: 2000.00 	
+Balance: 2553.00 
+						
+Date: 22/05/2023
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -147.00 	
+Balance: 553.00 
+						
+Date: 15/05/2023
+Description: FASTER PAYMENTS RECEIPT REF.NEW ACCOUNT FROM Self
+Amount: 700.00 	
+Balance: 700.00 

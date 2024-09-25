@@ -1,0 +1,648 @@
+From: 01/01/2024 to 25/09/2024
+							
+Account: XXXX XXXX XXXX XXXX
+						
+Date: 23/09/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -117.00 	
+Balance: 92.49 
+						
+Date: 19/09/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -252.71 	
+Balance: 209.49 
+						
+Date: 16/09/2024
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -89.00 	
+Balance: 462.20 
+						
+Date: 10/09/2024
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 2.67 	
+Balance: 551.20 
+						
+Date: 10/09/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 2.34 	
+Balance: 548.53 
+						
+Date: 10/09/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 2.38 	
+Balance: 546.19 
+						
+Date: 10/09/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 0.96 	
+Balance: 543.81 
+						
+Date: 10/09/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 542.85 
+						
+Date: 10/09/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -238.00 	
+Balance: 546.85 
+						
+Date: 02/09/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Investec , MANDATE NO 6
+Amount: -5500.00 	
+Balance: 784.85 
+						
+Date: 02/09/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 4400.00 	
+Balance: 6284.85 
+						
+Date: 01/09/2024
+Description: FASTER PAYMENTS RECEIPT REF.Flat FROM Tenant
+Amount: 1830.00 	
+Balance: 1884.85 
+						
+Date: 22/08/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -117.00 	
+Balance: 54.85 
+						
+Date: 21/08/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -520.45 	
+Balance: 171.85 
+						
+Date: 15/08/2024
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -89.00 	
+Balance: 692.30 
+						
+Date: 12/08/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -238.00 	
+Balance: 781.30 
+						
+Date: 10/08/2024
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 2.67 	
+Balance: 1019.30 
+						
+Date: 10/08/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 2.34 	
+Balance: 1016.63 
+						
+Date: 10/08/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 2.38 	
+Balance: 1014.29 
+						
+Date: 10/08/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.72 	
+Balance: 1011.91 
+						
+Date: 10/08/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 1010.19 
+						
+Date: 08/08/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Investec , MANDATE NO 6
+Amount: -900.00 	
+Balance: 1014.19 
+						
+Date: 01/08/2024
+Description: FASTER PAYMENTS RECEIPT REF.Flat FROM Tenant
+Amount: 1830.00 	
+Balance: 1914.19 
+						
+Date: 25/07/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Investec , MANDATE NO 6
+Amount: -3800.00 	
+Balance: 84.19 
+						
+Date: 25/07/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 3800.00 	
+Balance: 3884.19 
+						
+Date: 22/07/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -117.00 	
+Balance: 84.19 
+						
+Date: 19/07/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -2555.79 	
+Balance: 201.19 
+						
+Date: 18/07/2024
+Description: FASTER PAYMENTS RECEIPT REF.CREDIT CARD FROM Self
+Amount: 2500.00 	
+Balance: 2756.98 
+						
+Date: 15/07/2024
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -89.00 	
+Balance: 256.98 
+						
+Date: 11/07/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Investec , MANDATE NO 6
+Amount: -5000.00 	
+Balance: 345.98 
+						
+Date: 10/07/2024
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 2.67 	
+Balance: 5345.98 
+						
+Date: 10/07/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 5343.31 
+						
+Date: 10/07/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 2.38 	
+Balance: 5342.23 
+						
+Date: 10/07/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 2.60 	
+Balance: 5339.85 
+						
+Date: 10/07/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 5337.25 
+						
+Date: 10/07/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -238.00 	
+Balance: 5341.25 
+						
+Date: 08/07/2024
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM Spouse
+Amount: 1550.00 	
+Balance: 5579.25 
+						
+Date: 04/07/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 2100.00 	
+Balance: 4029.25 
+						
+Date: 01/07/2024
+Description: FASTER PAYMENTS RECEIPT REF.Flat FROM Tenant
+Amount: 1830.00 	
+Balance: 1929.25 
+						
+Date: 24/06/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 99.25 
+						
+Date: 19/06/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -1258.86 	
+Balance: 153.25 
+						
+Date: 17/06/2024
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -89.00 	
+Balance: 1412.11 
+						
+Date: 14/06/2024
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 1501.11 
+						
+Date: 12/06/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO NATIONAL WESTMIN REFERENCE xxxxxx Self , MANDATE NO
+Amount: -10800.00 	
+Balance: 1538.10 
+						
+Date: 12/06/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 9542.93 	
+Balance: 12338.10 
+						
+Date: 11/06/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 2795.17 
+						
+Date: 10/06/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -238.00 	
+Balance: 2799.17 
+						
+Date: 09/06/2024
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 3.00 	
+Balance: 3037.17 
+						
+Date: 09/06/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 3034.17 
+						
+Date: 09/06/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 2.38 	
+Balance: 3033.09 
+						
+Date: 09/06/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.93 	
+Balance: 3030.71 
+						
+Date: 02/06/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO ElenaIsabela Gos REFERENCE Flat , MANDATE NO 13
+Amount: -125.00 	
+Balance: 3028.78 
+						
+Date: 31/05/2024
+Description: FASTER PAYMENTS RECEIPT REF.Flat FROM CRANBROOK LE
+Amount: 2766.47 	
+Balance: 3153.78 
+						
+Date: 31/05/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO ELIAS SHEIK REFERENCE Flat , MANDATE NO 11
+Amount: -750.00 	
+Balance: 387.31 
+						
+Date: 31/05/2024
+Description: FASTER PAYMENTS RECEIPT REF.Flat REPAIRS FROM Self
+Amount: 800.00 	
+Balance: 1137.31 
+						
+Date: 26/05/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO ELIAS SHEIK REFERENCE Flat , MANDATE NO 11
+Amount: -1200.00 	
+Balance: 337.31 
+						
+Date: 26/05/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 1500.00 	
+Balance: 1537.31 
+						
+Date: 22/05/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 37.31 
+						
+Date: 21/05/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -683.02 	
+Balance: 91.31 
+						
+Date: 17/05/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 689.98 	
+Balance: 774.33 
+						
+Date: 15/05/2024
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -100.00 	
+Balance: 84.35 
+						
+Date: 14/05/2024
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 184.35 
+						
+Date: 12/05/2024
+Description: BILL PAYMENT TO Son REFERENCE Expenses
+Amount: -1500.00 	
+Balance: 221.34 
+						
+Date: 11/05/2024
+Description: FASTER PAYMENTS RECEIPT REF.EXPENSES FROM Self
+Amount: 1600.00 	
+Balance: 1721.34 
+						
+Date: 11/05/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO ILFORD ELECTRICI REFERENCE EICR xxxxxx , MANDATE NO 9
+Amount: -80.00 	
+Balance: 121.34 
+						
+Date: 10/05/2024
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 3.00 	
+Balance: 201.34 
+						
+Date: 10/05/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 198.34 
+						
+Date: 10/05/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 2.33 	
+Balance: 197.26 
+						
+Date: 10/05/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.33 	
+Balance: 194.93 
+						
+Date: 10/05/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 193.60 
+						
+Date: 10/05/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -238.00 	
+Balance: 197.60 
+						
+Date: 27/04/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE INVESTEC , MANDATE NO 6
+Amount: -5200.00 	
+Balance: 435.60 
+						
+Date: 27/04/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 4000.00 	
+Balance: 5635.60 
+						
+Date: 26/04/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Friend REFERENCE Friend anniversary , MANDATE NO 8
+Amount: -17.22 	
+Balance: 1635.60 
+						
+Date: 25/04/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 1600.00 	
+Balance: 1652.82 
+						
+Date: 22/04/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 52.82 
+						
+Date: 20/04/2024
+Description: BILL PAYMENT TO Son REFERENCE TUITION FEES, MANDATE NO00007
+Amount: -7500.00 	
+Balance: 106.82 
+						
+Date: 19/04/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 6450.00 	
+Balance: 7606.82 
+						
+Date: 19/04/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -1948.15 	
+Balance: 1156.82 
+						
+Date: 17/04/2024
+Description: FASTER PAYMENTS RECEIPT REF.AMEX BILL FROM Self
+Amount: 3000.00 	
+Balance: 3104.97 
+						
+Date: 15/04/2024
+Description: DIRECT DEBIT PAYMENT TO AFFINITY WATER REF xxxxxx, MANDATE NO 0002
+Amount: -100.00 	
+Balance: 104.97 
+						
+Date: 15/04/2024
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 204.97 
+						
+Date: 10/04/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 241.96 
+						
+Date: 10/04/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 4.15 	
+Balance: 240.88 
+						
+Date: 10/04/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 236.73 
+						
+Date: 10/04/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -233.07 	
+Balance: 240.73 
+						
+Date: 04/04/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Investec , MANDATE NO 6
+Amount: -6300.00 	
+Balance: 473.80 
+						
+Date: 04/04/2024
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM Spouse
+Amount: 2400.00 	
+Balance: 6773.80 
+						
+Date: 31/03/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE INVESTEC , MANDATE NO 6
+Amount: -6000.00 	
+Balance: 4373.80 
+						
+Date: 28/03/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Spouse REFERENCE Investec , MANDATE NO 6
+Amount: -600.00 	
+Balance: 10373.80 
+						
+Date: 27/03/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 10000.00 	
+Balance: 10973.80 
+						
+Date: 27/03/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 450.00 	
+Balance: 973.80 
+						
+Date: 22/03/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 523.80 
+						
+Date: 20/03/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -395.44 	
+Balance: 577.80 
+						
+Date: 14/03/2024
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 973.24 
+						
+Date: 10/03/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 1010.23 
+						
+Date: 10/03/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 1009.15 
+						
+Date: 10/03/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.75 	
+Balance: 1007.16 
+						
+Date: 10/03/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 1005.41 
+						
+Date: 27/02/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 450.00 	
+Balance: 1009.41 
+						
+Date: 22/02/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 559.41 
+						
+Date: 21/02/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -802.93 	
+Balance: 613.41 
+						
+Date: 14/02/2024
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 1416.34 
+						
+Date: 12/02/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 1453.33 
+						
+Date: 10/02/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 1652.33 
+						
+Date: 10/02/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 1651.25 
+						
+Date: 10/02/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 1.59 	
+Balance: 1649.26 
+						
+Date: 10/02/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 1647.67 
+						
+Date: 04/02/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Friend REFERENCE party , MANDATE NO 5
+Amount: -13.00 	
+Balance: 1651.67 
+						
+Date: 01/02/2024
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM Spouse
+Amount: 1100.00 	
+Balance: 1664.67 
+						
+Date: 27/01/2024
+Description: FASTER PAYMENTS RECEIPT REF.SAVINGS FROM Self
+Amount: 250.00 	
+Balance: 564.67 
+						
+Date: 22/01/2024
+Description: DIRECT DEBIT PAYMENT TO SCOTTISHPOWER REF xxxxxx, MANDATE NO 0001
+Amount: -54.00 	
+Balance: 314.67 
+						
+Date: 19/01/2024
+Description: DIRECT DEBIT PAYMENT TO AMERICAN EXPRESS REF xxxxxx, MANDATE NO 0004
+Amount: -386.55 	
+Balance: 368.67 
+						
+Date: 15/01/2024
+Description: DIRECT DEBIT PAYMENT TO PURE GYM LTD REF xxxxxx, MANDATE NO 0005
+Amount: -36.99 	
+Balance: 755.22 
+						
+Date: 12/01/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Self REFERENCE Savings , MANDATE NO 4
+Amount: -900.00 	
+Balance: 792.21 
+						
+Date: 10/01/2024
+Description: 1 Direct Debit Payment at 3,00% Cashback
+Amount: 5.00 	
+Balance: 1692.21 
+						
+Date: 10/01/2024
+Description: 1 Direct Debit Payment at 2,00% Cashback
+Amount: 1.08 	
+Balance: 1687.21 
+						
+Date: 10/01/2024
+Description: 1 Direct Debit Payment at 1,00% Cashback
+Amount: 1.99 	
+Balance: 1686.13 
+						
+Date: 10/01/2024
+Description: INTEREST PAID AFTER TAX 0.00 DEDUCTED
+Amount: 4.20 	
+Balance: 1684.14 
+						
+Date: 10/01/2024
+Description: MAINTAINING THE ACCOUNT - MONTHLY FEE
+Amount: -4.00 	
+Balance: 1679.94 
+						
+Date: 10/01/2024
+Description: DIRECT DEBIT PAYMENT TO Council REF 01 xxxxxx, MANDATE NO 0003
+Amount: -199.00 	
+Balance: 1683.94 
+						
+Date: 04/01/2024
+Description: FASTER PAYMENTS RECEIPT REF.Spouse FROM Spouse
+Amount: 1100.00 	
+Balance: 1882.94 
+						
+Date: 03/01/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO NATIONAL WESTMIN REFERENCE xxxxxx Self , MANDATE NO
+Amount: -25000.00 	
+Balance: 782.94 
+						
+Date: 03/01/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 24990.00 	
+Balance: 25782.94 
+						
+Date: 02/01/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO NATIONAL WESTMIN REFERENCE xxxxxx Self , MANDATE NO
+Amount: -10000.00 	
+Balance: 792.94 
+						
+Date: 02/01/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO Friend REFERENCE Spouse NewYearParty , MANDATE
+Amount: -65.25 	
+Balance: 10792.94 
+						
+Date: 01/01/2024
+Description: BILL PAYMENT VIA FASTER PAYMENT TO NATIONAL WESTMIN REFERENCE xxxxxx Self , MANDATE NO
+Amount: -25000.00 	
+Balance: 10858.19 
+						
+Date: 01/01/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 9990.00 	
+Balance: 35858.19 
+						
+Date: 01/01/2024
+Description: FASTER PAYMENTS RECEIPT REF.INVESTEC FROM Spouse
+Amount: 19990.00 	
+Balance: 25868.19 
